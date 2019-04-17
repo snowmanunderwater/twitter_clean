@@ -2,9 +2,9 @@
 
 1. Open Browser
 2. Go to https://twitter.com/i/likes for likes remove or https://twitter.com/youraccount/following for following remove
-3. Press F12 on your keyboard – this opens the browsers debug console
+3. Press F12
 4. Open the ‘Console’ tab
-5. Copy one of the following script
+5. Copy one of the following scripts
 6. In the bottom of the debug console, next to the blue arrow, paste it in
 7. Press enter the run the script
 Note – you may need to refresh the page and run the script again, several times, to completely clear your list.
